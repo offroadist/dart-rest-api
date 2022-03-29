@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "982397134116",
+    "project_id": "offroadistchats",
+    "storage_bucket": "offroadistchats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982397134116:android:8b0dbafed9f35e2ef93fb1",
+        "android_client_info": {
+          "package_name": "offroadist.Chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982397134116-1l00eb0im0nlottgtlui98eevi6sdpds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFVN0tH-kHyoPudUl6jIi4fQOZt4v-cx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982397134116-1l00eb0im0nlottgtlui98eevi6sdpds.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982397134116-b756m35g0h7e89hnnre9p9ikm9debi8v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "offroadist.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

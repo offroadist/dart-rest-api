@@ -1,7 +1,0 @@
-{
-    "recipient": 31612345678,
-    "originator": "Drillster",
-    "template": "Je code is: %token",
-    "voice": "female",
-    "language": "nl-nl"
-}
